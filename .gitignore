@@ -57,3 +57,6 @@ local.properties
 
 # Contains build/dependency configurations:
 .project
+
+# Classpath
+.classpath
