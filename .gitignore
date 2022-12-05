@@ -56,7 +56,7 @@ local.properties
 .worksheet
 
 # Contains build/dependency configurations:
-# .project
+.project
 
 # Classpath
 .classpath
