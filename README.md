@@ -2,7 +2,7 @@
 Una GUI Java sviluppata come progetto per l' insegnamento di Basi di dati, del corso di Laurea in Informatica dell' Università degli studi di Salerno.
 
 #  Funzionalità 
-La Gui permette di fare delle Query collegandosi ad un Database MySQL. 
+La Gui permette di fare delle query collegandosi ad un database MySQL. 
 
 # Schema E-R
 ![01 - Schema concettuale](https://user-images.githubusercontent.com/114619463/205529934-28c25839-2aab-483c-9886-1b81242bb42d.jpg)
