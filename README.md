@@ -1,13 +1,21 @@
-# Gestione etichette
-Una GUI Java sviluppata come progetto per l' insegnamento di Basi di dati, del corso di Laurea in Informatica dell' Università degli studi di Salerno.
+<p align="center">
+  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/a13b0d2f-1122-4e65-84d9-c0e532b95785" width="512" heigth="120">
+</p>
 
-#  Funzionalità 
+<p align="center">
+  Una GUI Java sviluppata come progetto per l'insegnamento di Basi di dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno. 
+</p>
+
+
+## Funzionalità 
 La Gui permette di fare delle query collegandosi ad un database MySQL. 
 
-# Schema E-R
+
+## Schema E-R
 ![01 - Schema concettuale](https://user-images.githubusercontent.com/114619463/205529934-28c25839-2aab-483c-9886-1b81242bb42d.jpg)
 
-# Ristrutturazione del Modello E-R
+
+## Ristrutturazione del Modello E-R
 - Generalizzazioni 
 
 ![02 - Generalizzazioni](https://user-images.githubusercontent.com/114619463/205530018-9527ecba-e343-406c-a5e5-d0c0f6ec44ce.png)
