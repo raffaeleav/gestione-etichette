@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Una GUI Java sviluppata come progetto per l'insegnamento di Basi di dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno. 
+  Una GUI Java sviluppata come progetto per l'insegnamento di Basi di Dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno. 
 </p>
 
 
