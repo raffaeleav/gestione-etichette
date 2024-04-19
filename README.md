@@ -13,10 +13,10 @@ La GUI permette di fare delle query collegandosi ad un database MySQL.
 
 ## Schema E-R
 <p>
-  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/9aef227e-fee7-41c3-b2e2-9070dcff31c7" width="512" heigth="512">
+  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/af095562-5082-4139-aaa9-c61f017c9ce7" width="512" heigth="512">
 </p>
 
 ## Schema E-R ristrutturato
 <p>
-  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/5acb75ad-881d-46ab-8b21-21bb4bbef0fc" width="512" heigth="512">
+  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/28b6cae7-3931-4daf-8077-59e7c161d716" width="512" heigth="512">
 </p>
