@@ -8,7 +8,7 @@
 
 
 ## Funzionalità 
-La Gui permette di fare delle query collegandosi ad un database MySQL. 
+La GUI permette di fare delle query collegandosi ad un database MySQL.
 
 
 ## Schema E-R
