@@ -12,19 +12,11 @@ La Gui permette di fare delle query collegandosi ad un database MySQL.
 
 
 ## Schema E-R
-![01 - Schema concettuale](https://user-images.githubusercontent.com/114619463/205529934-28c25839-2aab-483c-9886-1b81242bb42d.jpg)
+<p>
+  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/9aef227e-fee7-41c3-b2e2-9070dcff31c7" width="512" heigth="512">
+</p>
 
-
-## Ristrutturazione del Modello E-R
-- Generalizzazioni 
-
-![02 - Generalizzazioni](https://user-images.githubusercontent.com/114619463/205530018-9527ecba-e343-406c-a5e5-d0c0f6ec44ce.png)
-
-
-- Attributi multivalore
-
-![03 - Multivalore](https://user-images.githubusercontent.com/114619463/205530040-9c1aac38-381f-42a0-9ab4-7fc7b0199e7a.png)
-
-- Schema ristrutturato 
-
-![04 - Schema ristrutturato](https://user-images.githubusercontent.com/114619463/205530065-61095a90-ee63-4440-b463-1c9f480fab1f.png)
+## Schema E-R ristrutturato
+<p>
+  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/5acb75ad-881d-46ab-8b21-21bb4bbef0fc" width="512" heigth="512">
+</p>
