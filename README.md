@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/cb60aa32-6d81-4197-88be-5d3a901653af" width="256" heigth="256">
+  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/cb60aa32-6d81-4197-88be-5d3a901653af" width="200" heigth="200">
 </p>
 
 
