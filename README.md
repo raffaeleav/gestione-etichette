@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/cb60aa32-6d81-4197-88be-5d3a901653af" width="200" heigth="200">
+  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/9ce8556f-3f31-4c15-a435-c24098232e2c" width="200" heigth="200">
 </p>
-
 
 <p align="center">
   Una GUI Java sviluppata come progetto per l'insegnamento di Basi di Dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno. 
