@@ -23,5 +23,5 @@ La GUI permette di fare delle query collegandosi ad un database MySQL.
 </p>
 
 ## Built with
-- [Java](https://www.oracle.com/it/java/technologies/downloads/) - usato per la creazione della GUI e l'interfaccia con il database.
+- [Java](https://www.oracle.com/it/java/technologies/downloads/) - per la creazione della GUI e l'interfaccia con il database.
 - [MySQL](https://www.mysql.com) - per realizzare lo schema fisico della base di dati.
