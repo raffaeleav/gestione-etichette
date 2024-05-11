@@ -3,18 +3,46 @@
 </p>
 
 <p align="center">
-  Una GUI Java sviluppata come progetto per l'insegnamento di Basi di Dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno. 
+  Gestione Etichette è una GUI Java sviluppata come progetto per l'insegnamento di Basi di Dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno. 
+</p>
+
+
+## Table of Contents
+- [About](#About)
+- [Funzionalità](#Funzionalità)
+- [Schema E-R](#Schema-E-R-della-Base-di-dati)
+- [Dipendenze](#Dipendenze)
+- [Built with](#Built-with)
+
+
+## About
+<p>
+  Gestione Etichette è una GUI Java sviluppata come progetto per l'insegnamento di Basi di Dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno.
+  Questa GUI è stata progetta con l'intento di consolidare le conoscenze relative alle basi di dati, in un contesto pratico. La GUI offre agli utenti la possibilità di fare delle query predefinite rispetto al database MySQL.
+  Le query che si possono effettuare spaziano da semplici selezioni a query che operano su insiemi.
 </p>
 
 
 ## Funzionalità 
-La GUI permette di fare delle query collegandosi ad un database MySQL.
+1) Selezione ordinata su un attributo di una tabella con condizioni AND e OR
+2) Selezione su due o più tabelle con condizioni
+3) Selezione aggregata su tutti i valori
+4) Selezione aggregata su raggruppamenti
+5) Selezione aggregata su raggruppamenti con condizioni
+6) Selezione aggregata su raggruppamenti con condizioni che includano un’altra funzione di raggruppamento
+7) Selezione con operazioni sugli insiemi
+8) Selezione con divisione relazionale
 
 
 ## Schema E-R
 <p>
-  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/c51d9e99-f3dc-4944-a6c4-0ca84ffdd467" width="512" heigth="512">
+  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/c51d9e99-f3dc-4944-a6c4-0ca84ffdd467" width="400" heigth="400">
 </p>
+
+
+## Dipendenze 
+- [JDK 19](https://jdk.java.net/java-se-ri/19)
+- [MySQL](https://www.mysql.com/products/community/)
 
 
 ## Built with
