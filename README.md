@@ -17,11 +17,6 @@ La GUI permette di fare delle query collegandosi ad un database MySQL.
 </p>
 
 
-## Schema E-R ristrutturato
-<p>
-  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/d6037c46-7893-4b77-9ca9-67e0672b8b1f" width="512" heigth="512">
-</p>
-
 ## Built with
 - [Java](https://www.oracle.com/it/java/technologies/downloads/) - per la creazione della GUI e l'interfaccia con il database.
 - [MySQL](https://www.mysql.com) - per realizzare lo schema fisico della base di dati.
