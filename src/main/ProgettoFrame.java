@@ -1,4 +1,4 @@
-package it.unisa.bd;
+package main;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
