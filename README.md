@@ -47,4 +47,4 @@
 
 ## Built with
 - [Java](https://www.oracle.com/it/java/technologies/downloads/) - per la creazione della GUI e l'interfaccia con il database.
-- [MySQL](https://www.mysql.com) - per realizzare lo schema fisico della base di dati.
+- [SQL](https://www.w3schools.com/sql/) - per realizzare lo schema fisico della base di dati.
