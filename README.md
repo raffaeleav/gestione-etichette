@@ -25,7 +25,7 @@
 
 ## Preview
 <p>
-  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/84700259-fb15-420b-8d07-dc24694ee5c7" width="400" heigth="400">
+  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/d90e07ae-20fc-404c-a0d6-fd0834bdeeee" width="400" heigth="400">
 </p>
 
 
