@@ -23,6 +23,12 @@
 </p>
 
 
+## Preview
+<p>
+  <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/84700259-fb15-420b-8d07-dc24694ee5c7" width="400" heigth="400">
+</p>
+
+
 ## Funzionalità 
 1) Selezione ordinata su un attributo di una tabella con condizioni AND e OR
 2) Selezione su due o più tabelle con condizioni
