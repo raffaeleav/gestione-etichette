@@ -43,6 +43,7 @@
 ## Dipendenze 
 - [JDK 19](https://jdk.java.net/java-se-ri/19)
 - [MySQL](https://dev.mysql.com/downloads/installer/)
+- [Connector/J](https://dev.mysql.com/downloads/connector/j/)
 
 
 ## Built with
