@@ -9,6 +9,7 @@
 
 ## Table of Contents
 - [About](#About)
+- [Preview](#Preview)
 - [Funzionalità](#Funzionalità)
 - [Schema E-R](#Schema-E-R-della-Base-di-dati)
 - [Dipendenze](#Dipendenze)
