@@ -1,4 +1,4 @@
-package main;
+package gestioneetichette;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
@@ -28,7 +28,7 @@ public class ProgettoFrame extends JFrame{
 	  private JPanel northPanel;
 	  static final String dbUrl = "jdbc:mysql://localhost/gestioneEtichette2022";
 	  static final String user = "root";
-	  static final String password = "Root2022";
+	  static final String password = "dasf12*gz";
 	  
 	  public ProgettoFrame() {
 	    setSize(700, 400);

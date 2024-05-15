@@ -1,4 +1,4 @@
-package it.unisa.bd;
+package gestioneetichette;
 
 import javax.swing.JFrame;
 
