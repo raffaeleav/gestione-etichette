@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Gestione Etichette è una GUI Java sviluppata come progetto per l'insegnamento di Basi di Dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno. 
+  Una GUI Java sviluppata come progetto per l'insegnamento di Basi di Dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno. 
 </p>
 
 
@@ -18,7 +18,7 @@
 
 ## About
 <p>
-  Gestione Etichette è una GUI Java sviluppata come progetto per l'insegnamento di Basi di Dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno.
+  Una GUI Java sviluppata come progetto per l'insegnamento di Basi di Dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno.
   Questa GUI è stata progetta con l'intento di consolidare le conoscenze relative alle basi di dati, in un contesto pratico. La GUI offre agli utenti la possibilità di fare delle query predefinite rispetto al database MySQL.
   Le query che si possono effettuare spaziano da semplici selezioni a query che operano su insiemi.
 </p>
