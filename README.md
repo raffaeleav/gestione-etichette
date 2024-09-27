@@ -3,23 +3,23 @@
 </p>
 
 <p align="center">
-  Una GUI Java sviluppata come progetto per l'insegnamento di Basi di Dati, del corso di Laurea in Informatica dell'Università degli Studi di Salerno. 
+  A Java GUI developed as a project for the Basi di Dati (Database) course, part of the Computer Science Bachelor's Degree program at the University of Salerno
 </p>
 
 
 ## Table of Contents
 - [About](#About)
 - [Preview](#Preview)
-- [Funzionalità](#Funzionalità)
-- [Schema E-R](#Schema-E-R-della-Base-di-dati)
-- [Dipendenze](#Dipendenze)
+- [Features](#Features)
+- [E-R diagram](#E-R-diagram)
+- [Dependencies](#Dipendenze)
 - [Built with](#Built-with)
 
 
 ## About
 <p>
-  Gestione Etichette è stata progetta con l'intento di consolidare le conoscenze relative alle basi di dati, in un contesto pratico. La GUI offre agli utenti la possibilità di fare delle query predefinite rispetto al database MySQL.
-  Le query che si possono effettuare spaziano da semplici selezioni a query che operano su insiemi.
+  Gestione Etichette was developed with the goal of consolidating knowledge related to databases in a practical context. The GUI allows users to execute predefined queries on a MySQL database. 
+The implemented queries range from simple selections to queries operating on sets.
 </p>
 
 
@@ -29,18 +29,18 @@
 </p>
 
 
-## Funzionalità 
-1) Selezione ordinata su un attributo di una tabella con condizioni AND e OR
-2) Selezione su due o più tabelle con condizioni
-3) Selezione aggregata su tutti i valori
-4) Selezione aggregata su raggruppamenti
-5) Selezione aggregata su raggruppamenti con condizioni
-6) Selezione aggregata su raggruppamenti con condizioni che includano un’altra funzione di raggruppamento
-7) Selezione con operazioni sugli insiemi
-8) Selezione con divisione relazionale
+## Features 
+1) Ordered selection on a table attribute with AND and OR conditions
+2) Selection on two or more tables with conditions
+3) Aggregated selection on all values
+4) Aggregated selection on groupings
+5) Aggregated selection on groupings with conditions
+6) Aggregated selection on groupings with conditions that include another grouping function
+7) Selection with set operations
+8) Selection with relational division
 
 
-## Schema E-R
+## E-R diagram
 <p>
   <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/c51d9e99-f3dc-4944-a6c4-0ca84ffdd467" width="400" heigth="400">
 </p>
@@ -53,5 +53,5 @@
 
 
 ## Built with
-- [Java](https://www.oracle.com/it/java/technologies/downloads/) - per la creazione della GUI e l'interfaccia con il database.
-- [SQL](https://www.w3schools.com/sql/) - per realizzare lo schema fisico della base di dati.
+- [Java](https://www.oracle.com/it/java/technologies/downloads/) - used for the GUI development
+- [SQL](https://www.w3schools.com/sql/) - used for implementing the physical schema of the database
