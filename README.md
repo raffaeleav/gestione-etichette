@@ -8,7 +8,7 @@
 
 
 ## Table of Contents
-- [About](#About)
+- [Overview](#Overview)
 - [Preview](#Preview)
 - [Features](#Features)
 - [E-R diagram](#E-R-diagram)
@@ -16,7 +16,7 @@
 - [Built with](#Built-with)
 
 
-## About
+## Overview
 <p>
   Gestione Etichette was developed with the goal of consolidating knowledge related to databases in a practical context. The GUI allows users to execute predefined queries on a MySQL database. 
 The implemented queries range from simple selections to queries operating on sets.
