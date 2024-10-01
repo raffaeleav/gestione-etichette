@@ -59,16 +59,16 @@ cd gestione-etichette
 ```bash
 sudo mysql -u root -p < ./src/main/resources/database.sql
 ```
-5) Download the Connector/J JDBC driver
+4) Download the Connector/J JDBC driver
 ```bash
 curl -OL https://downloads.mysql.com/archives/get/p/3/file/mysql-connector-j-8.4.0.tar.gz 
 tar -xzvf mysql-connector-j-8.4.0.tar.gz 
 ```
-6) Compile the project
+5) Compile the project
 ```bash
 javac $(find . -name "*.java")
 ```
-7) Run the GUI with the Connector/J JDBC driver
+6) Run the GUI with the Connector/J JDBC driver
 ```bash
 java -cp ./mysql-connector-j-8.4.0/mysql-connector-j-8.4.0.jar:./src/main/java gestioneetichette.ProgettoViewer
 ```
