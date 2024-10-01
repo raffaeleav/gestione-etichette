@@ -12,7 +12,8 @@
 - [Preview](#Preview)
 - [Features](#Features)
 - [E-R diagram](#E-R-diagram)
-- [Dependencies](#Dipendenze)
+- [How to replicate](#How-to-replicate)
+- [Dependencies](#Dependencies)
 - [Built with](#Built-with)
 
 
@@ -45,8 +46,35 @@ The implemented queries range from simple selections to queries operating on set
   <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/c51d9e99-f3dc-4944-a6c4-0ca84ffdd467" width="400" heigth="400">
 </p>
 
+## How to replicate
+1) Clone the repository
+```bash
+git clone https://github.com/raffaeleav/gestione-etichette.git
+```
+2) Switch to the project directory
+```bash
+cd gestione-etichette
+```
+3) Run the database script 
+```bash
+sudo mysql -u root -p < ./src/main/resources/database.sql
+```
+5) Download the Connector/J JDBC driver
+```bash
+curl -OL https://downloads.mysql.com/archives/get/p/3/file/mysql-connector-j-8.4.0.tar.gz 
+tar -xzvf mysql-connector-j-8.4.0.tar.gz 
+```
+6) Compile the project
+```bash
+javac $(find . -name "*.java")
+```
+7) Run the GUI with the Connector/J JDBC driver
+```bash
+java -cp ./mysql-connector-j-8.4.0/mysql-connector-j-8.4.0.jar:./src/main/java gestioneetichette.ProgettoViewer
+```
 
-## Dipendenze 
+
+## Dependencies 
 - [JDK 19](https://jdk.java.net/java-se-ri/19)
 - [MySQL](https://dev.mysql.com/downloads/installer/)
   - [Connector/J](https://dev.mysql.com/downloads/connector/j/)
