@@ -55,7 +55,7 @@ git clone https://github.com/raffaeleav/gestione-etichette.git
 ```bash
 cd gestione-etichette
 ```
-3) Run the database script 
+3) Execute the database script 
 ```bash
 sudo mysql -u root -p < ./src/main/resources/database.sql
 ```
