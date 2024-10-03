@@ -12,8 +12,8 @@
 - [Preview](#Preview)
 - [Features](#Features)
 - [E-R diagram](#E-R-diagram)
-- [How to replicate](#How-to-replicate)
 - [Dependencies](#Dependencies)
+- [How to replicate](#How-to-replicate)
 - [Built with](#Built-with)
 
 
@@ -46,6 +46,13 @@ The implemented queries range from simple selections to queries operating on set
   <img src="https://github.com/raffaeleav/gestione-etichette/assets/114619463/c51d9e99-f3dc-4944-a6c4-0ca84ffdd467" width="400" heigth="400">
 </p>
 
+
+## Dependencies 
+- [JDK 19](https://jdk.java.net/java-se-ri/19)
+- [MySQL](https://dev.mysql.com/downloads/installer/)
+  - [Connector/J](https://dev.mysql.com/downloads/connector/j/)
+
+
 ## How to replicate
 1) Clone the repository
 ```bash
@@ -72,12 +79,6 @@ javac $(find . -name "*.java")
 ```bash
 java -cp ./mysql-connector-j-8.4.0/mysql-connector-j-8.4.0.jar:./src/main/java gestioneetichette.ProgettoViewer
 ```
-
-
-## Dependencies 
-- [JDK 19](https://jdk.java.net/java-se-ri/19)
-- [MySQL](https://dev.mysql.com/downloads/installer/)
-  - [Connector/J](https://dev.mysql.com/downloads/connector/j/)
 
 
 ## Built with
