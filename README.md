@@ -12,7 +12,7 @@
 - [Preview](#Preview)
 - [Features](#Features)
 - [E-R diagram](#E-R-diagram)
-- [Dependencies](#Dependencies)
+- [Requirements](#Requirements)
 - [How to replicate](#How-to-replicate)
 - [Built with](#Built-with)
 
@@ -47,7 +47,7 @@ The implemented queries range from simple selections to queries operating on set
 </p>
 
 
-## Dependencies 
+## Requirements 
 - [JDK 19](https://jdk.java.net/java-se-ri/19)
 - [MySQL](https://dev.mysql.com/downloads/installer/)
   - [Connector/J](https://dev.mysql.com/downloads/connector/j/)
