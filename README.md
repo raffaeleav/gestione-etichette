@@ -14,7 +14,6 @@
 - [E-R diagram](#E-R-diagram)
 - [Requirements](#Requirements)
 - [How to replicate](#How-to-replicate)
-- [Built with](#Built-with)
 
 
 ## Overview
@@ -79,8 +78,3 @@ javac $(find . -name "*.java")
 ```bash
 java -cp ./mysql-connector-j-8.4.0/mysql-connector-j-8.4.0.jar:./src/main/java gestioneetichette.ProgettoViewer
 ```
-
-
-## Built with
-- [Java](https://www.oracle.com/it/java/technologies/downloads/) - used for the GUI development
-- [SQL](https://www.w3schools.com/sql/) - used for implementing the physical schema of the database
